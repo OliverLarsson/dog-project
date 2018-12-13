@@ -15,6 +15,12 @@ Our dog fitness tracker project is a Figma prototype of an iOS app built to help
 
 ***********************
 
+### Prototype video 
+
+- https://drive.google.com/file/d/1cNhe5mvKZ0ne0P9KWX_ubLh2wswmtNnG/view?usp=sharing
+
+**********************
+
 ### Group Task 1
 
 This involved individual brainstorming assignments, so we have no files here :). 
